@@ -1,0 +1,15 @@
+devices:
+  name: GPS devices
+  entities:
+  - group.iPhone5
+  - group.car
+
+iPhone5:
+  name: iPhone5 Antonio
+  entities:
+  - device_tracker.hassCar_iPhone5
+
+car:
+  name: Alfa Romeo Giulietta
+  entities:
+  - device_tracker.hassCar_car

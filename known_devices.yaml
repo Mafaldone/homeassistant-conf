@@ -1,0 +1,14 @@
+
+hassCar_iPhone5:
+  name: iPhone5
+  mac:
+  picture:
+  track: yes
+  hide_if_away: no
+  
+hassCar_car:
+  name: Alfa Romeo Giulietta
+  mac:
+  picture:
+  track: yes
+  hide_if_away: no

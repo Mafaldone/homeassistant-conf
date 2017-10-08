@@ -1,0 +1,12 @@
+  zone:
+    name: Home
+    latitude: !secret latitude_home
+    longitude: !secret longitude_home
+    radius: 200
+    icon: mdi:home
+  zon 2:
+    name: Car
+    latitude: !secret latitude_buckhead
+    longitude: !secret longitude_buckhead
+    radius: 200
+    icon: mdi:car
